@@ -1,0 +1,5 @@
+C:\Repos\GameOfLife\src\gameoflife\bin\Debug\gameoflife.dll
+C:\Repos\GameOfLife\src\gameoflife\bin\Debug\gameoflife.pdb
+C:\Repos\GameOfLife\src\gameoflife\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\GameOfLife\src\gameoflife\obj\Debug\gameoflife.dll
+C:\Repos\GameOfLife\src\gameoflife\obj\Debug\gameoflife.pdb

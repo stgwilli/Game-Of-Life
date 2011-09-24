@@ -1,0 +1,15 @@
+C:\Repos\GameOfLife\src\specs\bin\Debug\specs.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\specs.pdb
+C:\Repos\GameOfLife\src\specs\bin\Debug\developwithpassion.specifications.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\developwithpassion.specifications.rhinomocks.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\gameoflife.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\Machine.Fakes.Adapters.RhinoMocks.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\Machine.Fakes.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\Machine.Specifications.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\Rhino.Mocks.dll
+C:\Repos\GameOfLife\src\specs\bin\Debug\gameoflife.pdb
+C:\Repos\GameOfLife\src\specs\bin\Debug\developwithpassion.specifications.pdb
+C:\Repos\GameOfLife\src\specs\bin\Debug\developwithpassion.specifications.rhinomocks.pdb
+C:\Repos\GameOfLife\src\specs\obj\Debug\ResolveAssemblyReference.cache
+C:\Repos\GameOfLife\src\specs\obj\Debug\specs.dll
+C:\Repos\GameOfLife\src\specs\obj\Debug\specs.pdb
